@@ -1,0 +1,6 @@
+run using npm run dev on both cd's
+reached 50mins 
+reached 45mins completed frontend and backend, intergration remains..
+reached 18 mins js complete.
+
+reached 9mins into the video, installed express and nodemon, now need to install multer for saving files on local disk.
